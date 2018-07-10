@@ -22,7 +22,7 @@ Simple face swap app that you could use for fun
         Fix: @https://medium.com/@vinuvish/install-dlib-python-windows-77e9349e6cfc
 
 ## CHEAT: Preprocessed Data and Pretrained Model
-    Since collecting and cleaning data as well as training the model takes so much time and computation. What if we just skip this, and immediately perform face swapping? For this repo, [click here to download](https://anonfile.com/p7w3m0d5be/face-swap.zip). Then extract it.
+    Since collecting and cleaning data as well as training the model takes so much time and computation. What if we just skip this, and immediately perform face swapping? For this repo, download file at https://anonfile.com/p7w3m0d5be/face-swap.zip. Then extract it.
 
 ## How to Face Swap:
     1. `python faceswap.py convert -i face-swap/data/trump/ -o face-swap/output/cage-trump -m face-s
